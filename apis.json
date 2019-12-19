@@ -1,0 +1,75 @@
+{
+    "name": "FlowPlay",
+    "description": "Flowplayer is the video player for your website.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1416-flowplay.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "html5",
+        "javascript",
+        "streaming"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/flowplay\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FlowPlay",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1416-flowplay.jpg",
+            "humanURL": "http:\/\/flowplayer.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/flowplay-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/flowplayer.org\/docs\/api.html"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/flowplayer"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/flowplay"
+        },
+        {
+            "type": "Email",
+            "url": "sales@flowplayer.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@flowplayer.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@flowplayer.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/flowplayer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/flowplayer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FlowPlay"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/flowplayer.org"
+        }
+    ]
+}
